@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "LangChain 打造生成式 AI 創新應用：從 LangGraph 到 LangSmith"
+title: "LangChain 打造生成式 AI 創新應用：從 LangGraph 到 LangSmith"
+abstract: "This book offers a hands-on, comprehensive guide to developing AI agents with LangGraph, featuring practical examples and step-by-step instructions."
+date-released: 2025/10/20
+authors:
+  - family-names: "Sheu"
+    given-names: "Heng-Shiou"
+license: "MIT"
+url: "https://www.tenlong.com.tw/products/9786267757420"
+repository-code: "https://github.com/Heng-xiu/langchain-langgraph-langsmith-book"
+keywords:
+  - LangChain
+  - Generative AI
+  - AI applications
+  - Colab
+  - LangSmith
+  - LangGraph
+  - AI agent
+  - practical guide
+  - tutorial
